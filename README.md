@@ -7,7 +7,7 @@ This project explores how music and lyrics have evolved from 1990 to 2024, refle
 - Analyze the impact of digitalization and streaming services on music consumption.
 - Examine trends in song duration, tonal and lyrical sentiment, and thematic content.
 
-## Some of Technological Tools and Techniques
+## Some of Technological Tools and Techniques Used
 ### Data Collection:
 - **BeautifulSoup** for web scraping.
 - **LyricsGenius** for lyric extraction via the Genius API.
