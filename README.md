@@ -46,6 +46,6 @@ This project underscores the dynamic nature of music and its reflection of socie
 
 ## Authors
 - Ozan Güner
-- Miguel Habana
+- Miguel Habana (https://github.com/mighabana)
 
 [You can reach the project presentation from here for more details.](<Analysis of Musical and Lyrical Trends.pdf>)
